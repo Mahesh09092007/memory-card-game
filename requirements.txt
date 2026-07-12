@@ -1,0 +1,6 @@
+# This project only uses Python's standard library.
+# tkinter ships with most standard Python installations, so there is
+# nothing to install via pip.
+#
+# If tkinter is missing on your system, install it via your OS package
+# manager (see README.md -> "Installation" section).
